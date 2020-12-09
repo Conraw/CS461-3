@@ -1,4 +1,7 @@
 The ending result of my network has an accuracy of 87%
+see the gyazo
+https://gyazo.com/9ac4559161ac995adf7bcd30feebe691
 
-my network configuration is simple it just 1 dense fully connected layer with a relu activation metho.
-using a sequential model
+the starting of the preprocessing was a difficult challenge for this assignment, however once started it became easier.
+
+my neuro network uses a sequential model with 1 fully connected dense layer using relu activation.
